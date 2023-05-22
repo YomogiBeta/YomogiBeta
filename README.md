@@ -1,5 +1,5 @@
 <h1>My Tech</h1>
-<p style="color: rgb(180,180,200);">Tools, libraries and languages. I'm excluding anything I've only touched a little.</p>
+<p >Tools, libraries and languages. I'm excluding anything I've only touched a little.</p>
 
 <table>
   <tr >
