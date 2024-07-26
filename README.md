@@ -1,3 +1,12 @@
+<h1>Thank you for visiting. </h1>
+Organization: <a href="https://www.kyoto-su.ac.jp/faculty/ise/"  target="_blank" rel="noopener noreferrer">京都産業大学 情報理工学部</a>  
+<br />
+Major subject: Programming, Language of programming, Web Server and client,
+<br />
+<br />
+<p>
+	I aspire to be an engineer committed to a better world, using software as a means to a better end.
+</p>
 <h1>My Tech</h1>
 <p >Tools, libraries and languages. I'm excluding anything I've only touched a little.</p>
 
