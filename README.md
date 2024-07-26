@@ -80,3 +80,6 @@ Major subject: Programming, Language of programming, Web Server and client,
     </td>
   </tr>
 </table>
+
+<h1>Contact</h1>
+Mail: <a href="mailto:yomogibeta5829@gmail.com">yomogibeta5829@gmail.com</a>
