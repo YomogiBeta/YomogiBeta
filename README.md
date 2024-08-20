@@ -1,6 +1,4 @@
 <h1>Thank you for visiting. </h1>
-Organization: <a href="https://www.kyoto-su.ac.jp/faculty/ise/"  target="_blank" rel="noopener noreferrer">京都産業大学 情報理工学部</a>  
-<br />
 Major subject: Programming, Language of programming, Web Server and client,
 <br />
 <br />
